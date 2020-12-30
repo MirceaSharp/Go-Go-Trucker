@@ -1,0 +1,7 @@
+C:\Users\mirce\source\repos\Go Go trucker\Go Go trucker\bin\Debug\Go Go trucker.exe.config
+C:\Users\mirce\source\repos\Go Go trucker\Go Go trucker\bin\Debug\Go Go trucker.exe
+C:\Users\mirce\source\repos\Go Go trucker\Go Go trucker\bin\Debug\Go Go trucker.pdb
+C:\Users\mirce\source\repos\Go Go trucker\Go Go trucker\obj\Debug\Go Go trucker.csprojAssemblyReference.cache
+C:\Users\mirce\source\repos\Go Go trucker\Go Go trucker\obj\Debug\Go Go trucker.csproj.CoreCompileInputs.cache
+C:\Users\mirce\source\repos\Go Go trucker\Go Go trucker\obj\Debug\Go Go trucker.exe
+C:\Users\mirce\source\repos\Go Go trucker\Go Go trucker\obj\Debug\Go Go trucker.pdb
